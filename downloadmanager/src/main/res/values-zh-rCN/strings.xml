@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================ 下载 ================ -->
+    <string name="download_loading">获取中...</string>
+    <string name="downloading">正在下载</string>
+    <string name="download_progress">当前进度:</string>
+    <string name="download_complete">下载完成！</string>
+    <string name="download_speed">速度:</string>
+    <string name="download_backstage">后台</string>
+    <string name="download_pause">暂停</string>
+    <string name="download_resume">开始</string>
+    <string name="download_stop">停止</string>
+    <string name="download_notification_permission">请设置允许通知栏显示的权限</string>
+</resources>

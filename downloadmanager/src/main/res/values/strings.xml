@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DownloadManager</string>
+
+    <!-- ================ 下载 ================ -->
+
+    <string name="download_loading">Gets ...</string>
+    <string name="downloading">Downloads</string>
+    <string name="download_progress">Current progress:</string>
+    <string name="download_complete">Download is complete!</string>
+    <string name="download_speed">speed:</string>
+    <string name="download_backstage">Back</string>
+    <string name="download_pause">Pause</string>
+    <string name="download_resume">Start</string>
+    <string name="download_stop">Stop</string>
+    <string name="download_notification_permission">Please set the permission showing in the notification bar allowed.</string>
+</resources>
